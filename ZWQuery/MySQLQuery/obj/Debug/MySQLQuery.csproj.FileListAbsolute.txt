@@ -1,0 +1,72 @@
+E:\work\ZWGPTSX\MySQLQuery\bin\Debug\MySQLQuery.dll
+E:\work\ZWGPTSX\MySQLQuery\bin\Debug\MySQLQuery.pdb
+E:\work\ZWGPTSX\MySQLQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\work\ZWGPTSX\MySQLQuery\obj\Debug\MySQLQuery.csproj.GenerateResource.Cache
+E:\work\ZWGPTSX\MySQLQuery\obj\Debug\MySQLQuery.dll
+E:\work\ZWGPTSX\MySQLQuery\obj\Debug\MySQLQuery.pdb
+E:\work\ZWGPTSX\MySQLQuery\obj\Debug\ZWGPTS.FormQuery.resources
+E:\work\ZWGPTSX\MySQLQuery\obj\Debug\ZWGPTS.Properties.Resources.resources
+E:\work\ZWGPTSX\MySQLQuery\bin\Debug\MySQLDB.dll
+E:\work\ZWGPTSX\MySQLQuery\bin\Debug\MySql.Data.dll
+E:\work\ZWGPTSX\MySQLQuery\bin\Debug\MySQLDB.pdb
+E:\work\ZWGPTSX\MySQLQuery\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\work\ZWGPTSX 20140730\MySQLQuery\bin\Debug\MySQLQuery.dll
+E:\work\ZWGPTSX 20140730\MySQLQuery\bin\Debug\MySQLQuery.pdb
+E:\work\ZWGPTSX 20140730\MySQLQuery\bin\Debug\MySQLDB.dll
+E:\work\ZWGPTSX 20140730\MySQLQuery\bin\Debug\MySql.Data.dll
+E:\work\ZWGPTSX 20140730\MySQLQuery\bin\Debug\MySQLDB.pdb
+E:\work\ZWGPTSX 20140730\MySQLQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\work\ZWGPTSX 20140730\MySQLQuery\obj\Debug\ZWGPTS.FormQuery.resources
+E:\work\ZWGPTSX 20140730\MySQLQuery\obj\Debug\ZWGPTS.Properties.Resources.resources
+E:\work\ZWGPTSX 20140730\MySQLQuery\obj\Debug\MySQLQuery.csproj.GenerateResource.Cache
+E:\work\ZWGPTSX 20140730\MySQLQuery\obj\Debug\MySQLQuery.dll
+E:\work\ZWGPTSX 20140730\MySQLQuery\obj\Debug\MySQLQuery.pdb
+E:\work\ZWGPTSX 20140730\MySQLQuery\obj\Debug\ZWGPTS.FormConditionsEditor.resources
+E:\work\ZWGPTSX 20140731\MySQLQuery\bin\Debug\MySQLQuery.dll
+E:\work\ZWGPTSX 20140731\MySQLQuery\bin\Debug\MySQLQuery.pdb
+E:\work\ZWGPTSX 20140731\MySQLQuery\bin\Debug\MySQLDB.dll
+E:\work\ZWGPTSX 20140731\MySQLQuery\bin\Debug\MySql.Data.dll
+E:\work\ZWGPTSX 20140731\MySQLQuery\bin\Debug\MySQLDB.pdb
+E:\work\ZWGPTSX 20140731\MySQLQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\work\ZWGPTSX 20140731\MySQLQuery\obj\Debug\ZWGPTS.FormConditionsEditor.resources
+E:\work\ZWGPTSX 20140731\MySQLQuery\obj\Debug\ZWGPTS.FormQuery.resources
+E:\work\ZWGPTSX 20140731\MySQLQuery\obj\Debug\ZWGPTS.Properties.Resources.resources
+E:\work\ZWGPTSX 20140731\MySQLQuery\obj\Debug\MySQLQuery.csproj.GenerateResource.Cache
+E:\work\ZWGPTSX 20140731\MySQLQuery\obj\Debug\MySQLQuery.dll
+E:\work\ZWGPTSX 20140731\MySQLQuery\obj\Debug\MySQLQuery.pdb
+E:\work\ZWGPTS 20140801\MySQLQuery\bin\Debug\MySQLQuery.dll
+E:\work\ZWGPTS 20140801\MySQLQuery\bin\Debug\MySQLQuery.pdb
+E:\work\ZWGPTS 20140801\MySQLQuery\bin\Debug\MySQLDB.dll
+E:\work\ZWGPTS 20140801\MySQLQuery\bin\Debug\MySql.Data.dll
+E:\work\ZWGPTS 20140801\MySQLQuery\bin\Debug\MySQLDB.pdb
+E:\work\ZWGPTS 20140801\MySQLQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\work\ZWGPTS 20140801\MySQLQuery\obj\Debug\ZWGPTS.FormConditionsEditor.resources
+E:\work\ZWGPTS 20140801\MySQLQuery\obj\Debug\ZWGPTS.FormQuery.resources
+E:\work\ZWGPTS 20140801\MySQLQuery\obj\Debug\ZWGPTS.Properties.Resources.resources
+E:\work\ZWGPTS 20140801\MySQLQuery\obj\Debug\MySQLQuery.csproj.GenerateResource.Cache
+E:\work\ZWGPTS 20140801\MySQLQuery\obj\Debug\MySQLQuery.dll
+E:\work\ZWGPTS 20140801\MySQLQuery\obj\Debug\MySQLQuery.pdb
+G:\ZWGPTS\MySQLQuery\obj\Debug\ResolveAssemblyReference.cache
+G:\ZWGPTS\MySQLQuery\obj\Debug\ZWGPTS.ConditionBox.resources
+G:\ZWGPTS\MySQLQuery\obj\Debug\ZWGPTS.FormQuery.resources
+G:\ZWGPTS\MySQLQuery\obj\Debug\ZWGPTS.Properties.Resources.resources
+G:\ZWGPTS\MySQLQuery\obj\Debug\MySQLQuery.csproj.GenerateResource.Cache
+G:\ZWGPTS\MySQLQuery\obj\Debug\MySQLQuery.dll
+G:\ZWGPTS\MySQLQuery\obj\Debug\MySQLQuery.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\MySQLQuery.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\MySQLQuery.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\ZedGraph.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\bin\Debug\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\obj\Debug\ZWGPTS.ConditionBox.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\obj\Debug\ZWGPTS.FormQuery.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\obj\Debug\ZWGPTS.Properties.Resources.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\obj\Debug\MySQLQuery.csproj.GenerateResource.Cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\obj\Debug\MySQLQuery.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MySQLQuery\obj\Debug\MySQLQuery.pdb

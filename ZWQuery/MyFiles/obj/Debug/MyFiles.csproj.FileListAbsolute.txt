@@ -1,0 +1,12 @@
+G:\ZWGPTS\MyFiles\obj\Debug\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Debug\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Debug\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Debug\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Debug\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Debug\MySql.Data.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Debug\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\obj\Debug\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\obj\Debug\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\obj\Debug\MyFiles.pdb

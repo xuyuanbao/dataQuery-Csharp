@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyDB.Database" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAAAgAAICgAABAAAkAAAAAAAAABAAEAAACAAAI=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyDB.DbConfig" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAgMgAAMAoEAAAAAgACIAgAAAKQCAAAggACAA=</HashCode>
+      <FileName>DbConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDB.DbConfigManager" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhgCECBEiBTQAFQgACAoMCCIAECAEAAAqwARgBAAAA=</HashCode>
+      <FileName>DbConfigManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDB.DbExecute&lt;TDbConnection, TDbCommand, TDbDataAdapter, TDbDataReader&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAABAAAACAAABAAAEAAAAAIAAAAAAAgAAAAAAI=</HashCode>
+      <FileName>DbExecute.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyDB.DES" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDB.MyExcel" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAgAAAAAAACABAAAQAAAAAQAAAMAAEACBAACAAQA=</HashCode>
+      <FileName>MyExcel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDB.MyXml" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAEAAAAAAAAAAAAAgAAAAAAAEAg=</HashCode>
+      <FileName>MyXml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDB.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDB.ReportParaCollection">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAACCBAIAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReportParaCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MyDB.IDbExecute" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAABAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDbExecute.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MyDB.DbServerType" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAACAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Enum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

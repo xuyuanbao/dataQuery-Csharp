@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLQuery", "MySQLQuery\MySQLQuery.csproj", "{F73B66F0-7AE2-4FF5-8046-8D76BFD4AFF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFiles", "MyFiles\MyFiles.csproj", "{EE637C7F-A30F-4D73-9CEE-8376C4AC8458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDB", "MyDB\MyDB.csproj", "{E95F51AF-85ED-49FE-9E76-12785FB67A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZWQuery", "ZWQuery\ZWQuery.csproj", "{EA86E1C5-ACFD-41B9-B514-5B429FDD68D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73B66F0-7AE2-4FF5-8046-8D76BFD4AFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73B66F0-7AE2-4FF5-8046-8D76BFD4AFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73B66F0-7AE2-4FF5-8046-8D76BFD4AFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73B66F0-7AE2-4FF5-8046-8D76BFD4AFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE637C7F-A30F-4D73-9CEE-8376C4AC8458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE637C7F-A30F-4D73-9CEE-8376C4AC8458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE637C7F-A30F-4D73-9CEE-8376C4AC8458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE637C7F-A30F-4D73-9CEE-8376C4AC8458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95F51AF-85ED-49FE-9E76-12785FB67A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95F51AF-85ED-49FE-9E76-12785FB67A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95F51AF-85ED-49FE-9E76-12785FB67A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95F51AF-85ED-49FE-9E76-12785FB67A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA86E1C5-ACFD-41B9-B514-5B429FDD68D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA86E1C5-ACFD-41B9-B514-5B429FDD68D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA86E1C5-ACFD-41B9-B514-5B429FDD68D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA86E1C5-ACFD-41B9-B514-5B429FDD68D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

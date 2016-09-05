@@ -1,0 +1,155 @@
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\bin\Release\office.dll
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+E:\work\GPTS SourceCode\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+D:\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+D:\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+D:\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+D:\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+D:\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+D:\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+G:\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+G:\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+G:\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+G:\ZWGPTS\MyFiles\bin\Release\office.dll
+G:\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+G:\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+G:\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+G:\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+G:\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+G:\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+E:\work\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+E:\work\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+E:\work\ZWGPTS\MyFiles\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\work\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+E:\work\ZWGPTS\MyFiles\bin\Release\office.dll
+E:\work\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+E:\work\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+E:\work\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+E:\work\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+E:\work\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+E:\work\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\bin\Release\office.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\bin\Release\MyFiles.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\bin\Release\MyFiles.pdb
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\bin\Release\MySQLDB.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\bin\Release\office.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\bin\Release\MySql.Data.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\bin\Release\MySQLDB.pdb
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\obj\Release\MyFiles.dll
+C:\Documents and Settings\Administrator\桌面\ZWGPTS 20141225\MyFiles\obj\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\bin\Release\MyFiles.dll
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\bin\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\bin\Release\MySQLDB.dll
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\bin\Release\office.dll
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\bin\Release\MySql.Data.dll
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\bin\Release\MySQLDB.pdb
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\obj\Release\ResolveAssemblyReference.cache
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\obj\Release\MyFiles.dll
+D:\Program Files\ZWGPTS\ZWGPTS 20141226\MyFiles\obj\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\bin\Release\office.dll
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+D:\Program Files\ZWGPTS\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+C:\Documents and Settings\Administrator\桌面\ZWGPTS\MyFiles\bin\Release\stdole.dll
+D:\Program Files\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+D:\Program Files\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+D:\Program Files\ZWGPTS\MyFiles\bin\Release\office.dll
+D:\Program Files\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Program Files\ZWGPTS\MyFiles\bin\Release\stdole.dll
+D:\Program Files\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+D:\Program Files\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+D:\Program Files\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+D:\Program Files\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+D:\Program Files\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\office.dll
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+E:\work\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\office.dll
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+D:\Program Files\ZWGPTS 20150203-1 星德胜电机老化\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MyFiles.dll
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MyFiles.pdb
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MySQLDB.dll
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\office.dll
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MySql.Data.dll
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MySQLDB.pdb
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\obj\Release\ResolveAssemblyReference.cache
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\obj\Release\MyFiles.dll
+D:\Program Files\ZWGPTS20160119\ZWGPTS\MyFiles\obj\Release\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyFiles\bin\Release\MyDB.pdb
+D:\ZWGPTS\MyFiles\bin\Release\MyDB.dll
+D:\ZWGPTS\MyFiles\bin\Release\System.Data.SqlServerCe.dll
+D:\ZWGPTS\MyFiles\bin\Release\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Release\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Release\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Release\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Release\MySql.Data.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\bin\Release\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\obj\Release\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\obj\Release\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyFiles\obj\Release\MyFiles.pdb
+E:\任务\5.HL防错系统\上位机软件系统20160712\公版数据库查询软件\ZWQuery\ZWQuery\MyFiles\obj\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,40 @@
+D:\Program Files\ZWReportMaker\MyDB\obj\Release\ResolveAssemblyReference.cache
+D:\Program Files\ZWReportMaker\MyDB\obj\Release\MyDB.DbConfigManager.resources
+D:\Program Files\ZWReportMaker\MyDB\obj\Release\MyDB.Properties.Resources.resources
+D:\Program Files\ZWReportMaker\MyDB\obj\Release\MyDB.csproj.GenerateResource.Cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\obj\Release\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\obj\Release\MyDB.DbConfigManager.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\obj\Release\MyDB.Properties.Resources.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\obj\Release\MyDB.csproj.GenerateResource.Cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\bin\Release\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\bin\Release\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\bin\Release\MySql.Data.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\bin\Release\System.Data.SqlServerCe.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\bin\Release\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\bin\Release\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\bin\Release\zh-CHS\System.Data.SqlServerCe.resources.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\obj\Release\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\MyDB\obj\Release\MyDB.pdb
+D:\ZWGPTS\MyDB\bin\Release\MyDB.dll
+D:\ZWGPTS\MyDB\bin\Release\MyDB.pdb
+D:\ZWGPTS\MyDB\bin\Release\MySql.Data.dll
+D:\ZWGPTS\MyDB\obj\Release\ResolveAssemblyReference.cache
+D:\ZWGPTS\MyDB\obj\Release\MyDB.DbConfigManager.resources
+D:\ZWGPTS\MyDB\obj\Release\MyDB.Properties.Resources.resources
+D:\ZWGPTS\MyDB\obj\Release\MyDB.csproj.GenerateResource.Cache
+D:\ZWGPTS\MyDB\obj\Release\MyDB.dll
+D:\ZWGPTS\MyDB\obj\Release\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Release\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Release\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Release\MySql.Data.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Release\System.Data.SqlServerCe.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Release\zh-CHS\System.Data.SqlServerCe.resources.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Release\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Release\MyDB.DbConfigManager.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Release\MyDB.Properties.Resources.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Release\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Release\MyDB.pdb
+E:\任务\5.HL防错系统\上位机软件系统20160712\公版数据库查询软件\ZWQuery\ZWQuery\MyDB\obj\Release\ResolveAssemblyReference.cache
+E:\任务\5.HL防错系统\上位机软件系统20160712\公版数据库查询软件\ZWQuery\ZWQuery\MyDB\obj\Release\MyDB.DbConfigManager.resources
+E:\任务\5.HL防错系统\上位机软件系统20160712\公版数据库查询软件\ZWQuery\ZWQuery\MyDB\obj\Release\MyDB.Properties.Resources.resources

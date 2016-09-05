@@ -1,0 +1,54 @@
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\ZWQuery.exe
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\ZWQuery.pdb
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MyFiles.dll
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MySql.Data.dll
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MySQLDB.dll
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MySQLQuery.dll
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\office.dll
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\ZedGraph.dll
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MyFiles.pdb
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MySQLQuery.pdb
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MySQLDB.pdb
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ZWQuery.Properties.Resources.resources
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ZWQuery.csproj.GenerateResource.Cache
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ZWQuery.exe
+E:\work\GPTS SourceCode\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ZWQuery.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ZWQuery.exe
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ZWQuery.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\ZWQuery.exe
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\ZWQuery.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MySql.Data.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MySQLQuery.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\ZedGraph.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\bin\Debug\MySQLQuery.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ZWQuery.Properties.Resources.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWGPTS20160119\ZWGPTS\ZWQuery\ZWQuery\obj\Debug\ZWQuery.csproj.GenerateResource.Cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\obj\Debug\ZWQuery.exe
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\obj\Debug\ZWQuery.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\obj\Debug\ZWQuery.Properties.Resources.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\obj\Debug\ZWQuery.csproj.GenerateResource.Cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\ZWQuery.exe
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\ZWQuery.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\MySQLQuery.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\MyFiles.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\ZedGraph.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\MySql.Data.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\MyFiles.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\ZWQuery\ZWQuery\bin\Debug\MySQLQuery.pdb

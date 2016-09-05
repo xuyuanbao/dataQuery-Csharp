@@ -1,0 +1,78 @@
+E:\work\GPTS SourceCode\MyDB\MyDB\bin\Debug\MyDB.dll
+E:\work\GPTS SourceCode\MyDB\MyDB\bin\Debug\MyDB.pdb
+E:\work\GPTS SourceCode\MyDB\MyDB\bin\Debug\MySql.Data.dll
+E:\work\GPTS SourceCode\MyDB\MyDB\bin\Debug\System.Data.SqlServerCe.dll
+E:\work\GPTS SourceCode\MyDB\MyDB\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+E:\work\GPTS SourceCode\MyDB\MyDB\obj\Debug\ResolveAssemblyReference.cache
+E:\work\GPTS SourceCode\MyDB\MyDB\obj\Debug\MyDB.csproj.GenerateResource.Cache
+E:\work\GPTS SourceCode\MyDB\MyDB\obj\Debug\MyDB.dll
+E:\work\GPTS SourceCode\MyDB\MyDB\obj\Debug\MyDB.pdb
+E:\work\GPTS SourceCode\MyDB\MyDB\obj\Debug\MyDB.DbConfigManager.resources
+E:\work\GPTS SourceCode\MyDB\MyDB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\work\GPTS SourceCode\MyDB\MyDB\bin\Debug\office.dll
+E:\work\GPTS SourceCode\MyDB\MyDB\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\work\GPTS SourceCode\MyDB\MyDB\obj\Debug\MyDB.Properties.Resources.resources
+E:\ZWRJ_著微软件平台\MyDB\MyDB\bin\Debug\MyDB.dll
+E:\ZWRJ_著微软件平台\MyDB\MyDB\bin\Debug\MyDB.pdb
+E:\ZWRJ_著微软件平台\MyDB\MyDB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ZWRJ_著微软件平台\MyDB\MyDB\bin\Debug\MySql.Data.dll
+E:\ZWRJ_著微软件平台\MyDB\MyDB\bin\Debug\System.Data.SqlServerCe.dll
+E:\ZWRJ_著微软件平台\MyDB\MyDB\bin\Debug\office.dll
+E:\ZWRJ_著微软件平台\MyDB\MyDB\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ZWRJ_著微软件平台\MyDB\MyDB\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+E:\ZWRJ_著微软件平台\MyDB\MyDB\obj\Debug\ResolveAssemblyReference.cache
+E:\ZWRJ_著微软件平台\MyDB\MyDB\obj\Debug\MyDB.DbConfigManager.resources
+E:\ZWRJ_著微软件平台\MyDB\MyDB\obj\Debug\MyDB.Properties.Resources.resources
+E:\ZWRJ_著微软件平台\MyDB\MyDB\obj\Debug\MyDB.csproj.GenerateResource.Cache
+E:\ZWRJ_著微软件平台\MyDB\MyDB\obj\Debug\MyDB.dll
+E:\ZWRJ_著微软件平台\MyDB\MyDB\obj\Debug\MyDB.pdb
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\bin\Debug\MyDB.dll
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\bin\Debug\MyDB.pdb
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\bin\Debug\System.Data.SqlServerCe.dll
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\bin\Debug\office.dll
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\obj\Debug\ResolveAssemblyReference.cache
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\obj\Debug\MyDB.DbConfigManager.resources
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\obj\Debug\MyDB.Properties.Resources.resources
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\obj\Debug\MyDB.csproj.GenerateResource.Cache
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\obj\Debug\MyDB.dll
+E:\ZWRJ_著微软件平台\ZWReportMaker\MyDB\obj\Debug\MyDB.pdb
+D:\Program Files\ZWReportMaker\MyDB\bin\Debug\MyDB.dll
+D:\Program Files\ZWReportMaker\MyDB\bin\Debug\MyDB.pdb
+D:\Program Files\ZWReportMaker\MyDB\bin\Debug\office.dll
+D:\Program Files\ZWReportMaker\MyDB\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Program Files\ZWReportMaker\MyDB\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+D:\Program Files\ZWReportMaker\MyDB\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\ZWReportMaker\MyDB\obj\Debug\MyDB.DbConfigManager.resources
+D:\Program Files\ZWReportMaker\MyDB\obj\Debug\MyDB.Properties.Resources.resources
+D:\Program Files\ZWReportMaker\MyDB\obj\Debug\MyDB.csproj.GenerateResource.Cache
+D:\Program Files\ZWReportMaker\MyDB\obj\Debug\MyDB.dll
+D:\Program Files\ZWReportMaker\MyDB\obj\Debug\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\bin\Debug\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\bin\Debug\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\bin\Debug\System.Data.SqlServerCe.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\bin\Debug\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\obj\Debug\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\obj\Debug\MyDB.DbConfigManager.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\obj\Debug\MyDB.Properties.Resources.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\obj\Debug\MyDB.csproj.GenerateResource.Cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\obj\Debug\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWReportMaker\MyDB\obj\Debug\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Debug\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Debug\MyDB.pdb
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Debug\System.Data.SqlServerCe.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Debug\office.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Debug\ResolveAssemblyReference.cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Debug\MyDB.DbConfigManager.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Debug\MyDB.Properties.Resources.resources
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Debug\MyDB.csproj.GenerateResource.Cache
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Debug\MyDB.dll
+E:\XDS_星德胜\项目_XDS星德胜电机在线测试系统\ZWQuery\MyDB\obj\Debug\MyDB.pdb

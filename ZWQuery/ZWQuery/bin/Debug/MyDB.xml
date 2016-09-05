@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MyDB>
+  <DbConfig>
+    <ServerType>MySql</ServerType>
+    <Server>localhost</Server>
+    <Port>3306</Port>
+    <WindowsAuthentication>False</WindowsAuthentication>
+    <UserId>root</UserId>
+    <Password>E0-2E-AF-DD-47-CA-D8-91</Password>
+    <Database>xd_freqtest</Database>
+  </DbConfig>
+</MyDB>
